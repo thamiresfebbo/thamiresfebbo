@@ -1,11 +1,5 @@
 
 ## Oiii eu sou a Thamires Febbo, estudante de Desenvolvimento Front-End e UX/UI Design!
-<div align="center">
-  <a href="https://github.com/thamiresfebbo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thamiresfebbo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresfebbo&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Febbo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
