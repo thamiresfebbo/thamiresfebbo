@@ -30,8 +30,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
   
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/thamiresfebbo/thamiresfebbo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
