@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Thamires Febbo, estudante de Desenvolvimento Front-End e UX/UI Design!
+## Oiii eu sou a Thamires Febbo, estudante de Desenvolvimento Front-End!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Febbo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
